@@ -1,0 +1,26 @@
+@media (max-width: 1023px) {
+
+main {
+    width: 80%;
+    margin-top: 10%;
+}
+.logo {
+    width: 40%;
+    margin-bottom: 20%;
+} 
+.text {
+    padding: 20% 0;
+    text-align: center;
+   
+ }
+ h1 {
+    font-size: 1.7rem;
+ }
+ p {
+    font-size: 1.04rem;
+ }
+ .btn {
+    font-size: 1rem;
+    padding: 0.8rem 5rem;
+ }
+}       
